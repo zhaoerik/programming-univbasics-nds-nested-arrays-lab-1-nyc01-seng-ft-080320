@@ -32,7 +32,7 @@ def sorted_matrix
   # uses the arrays of conventional and organic produce as before.
   # However, this time, sort each internal array alphabetically by the first character
   array_2 =[
-    ["Eggplant", "Grapefruit", "Pineapple", "Oranges", "Watermelon"],
+    ["Eggplant", "Grapefruit", "Oranges", "Pineapples", "Watermelon"],
     ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries" ]
   ]
 end
